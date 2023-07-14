@@ -2,9 +2,9 @@ You are now in the presence of the great and terrible BlueArtifact.
 
 If your name is Walter, I live inside your walls. If not, I live inside Walter's walls.
 
-Snakes are cool.
-Chickens eat snakes.
-Don't be a snake.
+  Snakes are cool.
+  Chickens eat snakes.
+  Don't be a snake.
 
 Cats should be worshiped.
 
